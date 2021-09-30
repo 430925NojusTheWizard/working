@@ -1,0 +1,37 @@
+#paragraph1 { color:blue;
+    font-size: 1cm;
+    font-family: 'IM Fell French Canon SC', serif;
+    background-color: steelblue;
+    text-align: left;
+    width: 325px;}​​​​​    
+.page2 {color: red;
+        font-size: 2cm;
+        background-color: royalblue;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.page1h1 {color:aqua;
+        font-size: 2cm;
+        background-color: royalblue;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+#background{
+    background: url(../img/Leviosuh.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#background2{
+    background: url(../img/Snape.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#background3{
+    background: url(../img/Snaper.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Harry{
+    position: absolute; top: 671px; right: 5px;
+
+}
+.page3h1 {color: red;
+    font-size: 2cm;
+    background-color: royalblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
